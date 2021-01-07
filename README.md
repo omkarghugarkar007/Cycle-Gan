@@ -2,11 +2,13 @@
 
 Part of Winter of GANs
 
-We implemeted the Cycle GAN architecture to convert Horse to zebras and vice-versa
+We implemeted the Cycle GAN architecture to convert Horse to zebras
 
 Our Results:
 
 ![image](https://user-images.githubusercontent.com/62425457/103891340-aa646e80-510f-11eb-94b7-7d3eb77eb992.png)
+
+The model was also trained to convert photos to monet
 
 ![image](https://user-images.githubusercontent.com/62425457/103891514-fdd6bc80-510f-11eb-86f1-89e75c3702af.png)
 
