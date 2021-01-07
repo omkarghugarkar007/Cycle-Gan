@@ -20,5 +20,9 @@ To start the training Procedure use
 
 ```
 Python3 Train.py
+```
 
-'''
+Thanks Bhuvan Aggarwal for helping the training procedure ❤
+ 
+ - From Omkar with love 💙 !!!
+
